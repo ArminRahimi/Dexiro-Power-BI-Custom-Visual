@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0",
+		"author": {"name":"ArminRahimi","email":"rahimi@dexiro.ir"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/circleCarddd32BF4562D7FC43DDB48933F546607093.pbiviz.json"
+			}
+		],
+		"visual": {"name":"circleCarddd","displayName":"Dexiro","guid":"circleCarddd32BF4562D7FC43DDB48933F546607093","visualClassName":"Visual","version":"1.0.0","description":"Power By Dexiro","supportUrl":"https://community.powerbi.com","gitHubUrl":"https://github.com/microsoft/PowerBI-visuals-circlecard"},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}
